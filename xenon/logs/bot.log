@@ -1,0 +1,13 @@
+2020-09-03 04:03:38,305 [WARNING] discord.client > PyNaCl is not installed, voice will NOT be supported
+2020-09-03 04:03:39,283 [INFO] bot > Loaded 9 cogs
+2020-09-03 04:03:43,314 [INFO] discord.client > Cleaning up tasks.
+2020-09-03 04:03:43,315 [INFO] discord.client > Cleaning up after 2 tasks.
+2020-09-03 04:03:43,316 [INFO] discord.client > All tasks finished cancelling.
+2020-09-03 04:03:43,316 [INFO] discord.client > Closing the event loop.
+2020-09-03 04:04:04,757 [WARNING] discord.client > PyNaCl is not installed, voice will NOT be supported
+2020-09-03 04:04:04,901 [INFO] bot > Loaded 9 cogs
+2020-09-03 04:04:08,927 [INFO] discord.client > Cleaning up tasks.
+2020-09-03 04:04:08,928 [INFO] discord.client > Cleaning up after 2 tasks.
+2020-09-03 04:04:08,929 [INFO] discord.client > All tasks finished cancelling.
+2020-09-03 04:04:08,930 [INFO] discord.client > Closing the event loop.
+2020-09-03 04:08:27,202 [WARNING] discord.client > PyNaCl is not installed, voice will NOT be supported

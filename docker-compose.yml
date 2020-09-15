@@ -1,0 +1,19 @@
+version: '3'
+services:
+  xenon:
+    build: .
+    restart: unless-stopped
+    env_file:
+     - xenon.env
+    depends_on:
+      - "mongodb"
+  mongodb:
+    image: "mongo:4.0.8-xenial"
+    restart: unless-stopped
+    expose:
+     - "27017"
+  redis:
+    image: "redis:5.0.6"
+    restart: unless-stopped
+    expose:
+     - "6379"
